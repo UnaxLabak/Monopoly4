@@ -46,6 +46,7 @@ http://maven.apache.org/xsd/maven-4.0.0.xsd">
 		</sonar.projectKey>
 			<sonar.login>6ae9bce1e910c8a7214b58d83aa7f220e58d10ae</sonar.login>
 	</properties>
+	
 	<!-- https://mvnrepository.com/artifact/junit/junit -->
 	<dependencies>
 		<dependency>
